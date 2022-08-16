@@ -1,7 +1,7 @@
 ---
 title: This is the fourth example post
 date: 2020-02-03
-author: John Doe
+author: Sudip Bhattarai
 summary: Why contemplating our mortality can be a powerful catalyst for change
 tags:
   - environment
