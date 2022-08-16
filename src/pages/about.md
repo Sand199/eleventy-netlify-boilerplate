@@ -9,14 +9,10 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Hi, I am Sandip Bhattarai. I am based in Kathmandu, Nepal.
 
-Add a few line breaks in here to test:-
-Capitalize  
-on  
-low  
-hanging  
-fruit  
+I have an Undergraduate degree in Physics but I also work in CS as a hobby.
+
 
 ## Our services
 
